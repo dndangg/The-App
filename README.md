@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="dB4Bsum" data-context="false" ><a href="//imgur.com/dB4Bsum"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Imgur](https://i.imgur.com/dB4Bsum.gif)
 
 ## App Brainstorming (Step 4)
 
